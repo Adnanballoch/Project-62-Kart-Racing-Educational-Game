@@ -1,11 +1,11 @@
-# Project 62: Mario Kart Educational Racing Game
+# Project 62: Kart Racing Educational Game
 
 **Category:** Educational Gaming
 **Part of:** AutoMatrixLab
 
 ## Overview
 
-A custom Mario Kart-style racing game designed for gamified course teaching.
+A custom kart-racing game designed for gamified teaching.
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Game Engine, Racing Mechanics, Quiz Integration
 
 ## Demo
 
-[![Mario Kart Educational Racing Game](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-62-mario-kart-educational-racing-game.jpg)](https://automatrixlab.com/projects/project-62-mario-kart-educational-racing-game/)
+[![Kart Racing Educational Game](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-62-mario-kart-educational-racing-game.jpg)](https://automatrixlab.com/projects/project-62-mario-kart-educational-racing-game/)
 
 🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/62.mp4
 
